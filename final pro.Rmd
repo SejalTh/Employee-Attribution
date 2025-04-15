@@ -1,7 +1,6 @@
 ---
 title: "project final"
-author: "Aneesh Avati"
-date: "12 December 2018"
+
 output: word_document
 ---
 
